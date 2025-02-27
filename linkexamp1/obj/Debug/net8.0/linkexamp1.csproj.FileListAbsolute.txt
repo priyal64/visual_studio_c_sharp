@@ -1,0 +1,14 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\bin\Debug\net8.0\linkexamp1.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\bin\Debug\net8.0\linkexamp1.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\bin\Debug\net8.0\linkexamp1.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\bin\Debug\net8.0\linkexamp1.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\bin\Debug\net8.0\linkexamp1.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\refint\linkexamp1.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\linkexamp1.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\linkexamp1\obj\Debug\net8.0\ref\linkexamp1.dll

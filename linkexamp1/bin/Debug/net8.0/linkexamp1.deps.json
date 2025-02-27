@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "linkexamp1/1.0.0": {
+        "runtime": {
+          "linkexamp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "linkexamp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\bin\Debug\net8.0\Sample_classes.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\bin\Debug\net8.0\Sample_classes.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\bin\Debug\net8.0\Sample_classes.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\bin\Debug\net8.0\Sample_classes.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\bin\Debug\net8.0\Sample_classes.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\refint\Sample_classes.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\Sample_classes.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Sample_classes\obj\Debug\net8.0\ref\Sample_classes.dll

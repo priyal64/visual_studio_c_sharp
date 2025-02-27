@@ -1,0 +1,7 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\bin\Debug\Session1.exe.config
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\bin\Debug\Session1.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\bin\Debug\Session1.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\obj\Debug\Session1.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\obj\Debug\Session1.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\obj\Debug\Session1.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Session1\obj\Debug\Session1.pdb

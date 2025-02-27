@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Session1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3B0F9-5862-4F07-9617-CD73C1AD2F07}|..\\Sample_classes\\Sample_classes.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\sample_classes\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3B0F9-5862-4F07-9617-CD73C1AD2F07}|..\\Sample_classes\\Sample_classes.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\sample_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3B0F9-5862-4F07-9617-CD73C1AD2F07}|..\\Sample_classes\\Sample_classes.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\sample_classes\\iinterfacea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA3B0F9-5862-4F07-9617-CD73C1AD2F07}|..\\Sample_classes\\Sample_classes.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\sample_classes\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IinterfaceA.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\IinterfaceA.cs",
+              "RelativeDocumentMoniker": "..\\Sample_classes\\IinterfaceA.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\IinterfaceA.cs",
+              "RelativeToolTip": "..\\Sample_classes\\IinterfaceA.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:29:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\IAccount.cs",
+              "RelativeDocumentMoniker": "..\\Sample_classes\\IAccount.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\IAccount.cs",
+              "RelativeToolTip": "..\\Sample_classes\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:36.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\Family.cs",
+              "RelativeDocumentMoniker": "..\\Sample_classes\\Family.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\Family.cs",
+              "RelativeToolTip": "..\\Sample_classes\\Family.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:58:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Sample_classes\\Program.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Sample_classes\\Program.cs",
+              "RelativeToolTip": "..\\Sample_classes\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:57:44.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
