@@ -12,3 +12,4 @@ C:\Users\priya\OneDrive\Documents\visual_studio_c#\exams_or_practice\obj\Debug\n
 C:\Users\priya\OneDrive\Documents\visual_studio_c#\exams_or_practice\obj\Debug\net8.0\exams_or_practice.pdb
 C:\Users\priya\OneDrive\Documents\visual_studio_c#\exams_or_practice\obj\Debug\net8.0\exams_or_practice.genruntimeconfig.cache
 C:\Users\priya\OneDrive\Documents\visual_studio_c#\exams_or_practice\obj\Debug\net8.0\ref\exams_or_practice.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\exams_or_practice\obj\Debug\net8.0\exams_or_practice.sourcelink.json

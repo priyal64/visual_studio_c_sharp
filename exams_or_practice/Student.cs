@@ -8,8 +8,8 @@ namespace exams_or_practice
 {
     class Student
     {
-        int RollNo ;
-        string Name ;
+        private int RollNo ;
+        private string Name ;
         
         public void Addstudent(string Name,int RollNo)
         {

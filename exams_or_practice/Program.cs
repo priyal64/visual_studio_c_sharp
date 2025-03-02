@@ -47,6 +47,16 @@ namespace exams_or_practice
             //Console.WriteLine(r);
 
 
+            Report myReport = new Report();
+            // Call the methods from the implemented interfaces
+            myReport.Print();
+            myReport.SaveToFile();
+            // Demonstrate using interface references
+            IPrintable printableReport = myReport;
+            ISerializable serializableReport = myReport;
+            printableReport.Print();
+            serializableReport.SaveToFile();
+
             //Bank A1 = new Bank("PPPP");
             //Bank A2 = new Bank("KKK");
             //A1.DisplayAccountInfo();
@@ -61,12 +71,70 @@ namespace exams_or_practice
             //s.Authenticate();
 
 
-            Button myButton = new Button();
-            myButton.OnClick += ButtonClicked;
-            myButton.Click();
+            //Button myButton = new Button();
+            //myButton.OnClick += ButtonClicked;
+            //myButton.Click();
 
-            
+            //IVehicle myVehicle = VehicleFactory.GetVehicle("car");
+            //myVehicle.Drive();
 
+            //12
+            //prints kkkk ,kkkk,ppp
+
+
+            //Department originalDept = new Department
+            //{
+            //    Manager = new Manager { Name = "I AM piyal" }
+            //};
+            // Shallow Copy
+            //Department shallowCopyDept = originalDept.ShallowCopy();
+            //// Deep Copy
+            //Department deepCopyDept = originalDept.DeepCopy();
+
+            //// Demonstrate Shallow Copy:
+            //Console.WriteLine("--- Shallow Copy ---");
+            //Console.WriteLine($"Original Manager Name: {originalDept.Manager.Name}");
+            //Console.WriteLine($"Shallow Copy Manager Name: {shallowCopyDept.Manager.Name}");
+            //// Change the manager's name in the original object
+            //originalDept.Manager.Name = "Priyal ";
+            //Console.WriteLine("--- After Changing Original ---");
+            //Console.WriteLine($"Original Manager Name: {originalDept.Manager.Name}");
+            //Console.WriteLine($"Shallow Copy Manager Name: {shallowCopyDept.Manager.Name}"); // Shallow copy's manager also changes!
+            //// Demonstrate Deep Copy:
+            //Console.WriteLine("\n--- Deep Copy ---");
+            //Console.WriteLine($"Original Manager Name: {originalDept.Manager.Name}");
+            //Console.WriteLine($"Deep Copy Manager Name: {deepCopyDept.Manager.Name}");
+            //// Change the manager's name in the original object
+            //originalDept.Manager.Name = "New Manager";
+            //Console.WriteLine("--- After Changing Original again ---");
+            //Console.WriteLine($"Original Manager Name: {originalDept.Manager.Name}");
+            //Console.WriteLine($"Deep Copy Manager Name: {deepCopyDept.Manager.Name}"); // Deep copy's manager is unchanged!
+
+            //ILogger fileLogger = new FileLogger();
+            //ILogger timestampLogger = new TimestampLogger(fileLogger);
+            //ILogger errorLogger = new ErrorCategoryLogger(timestampLogger);
+            //errorLogger.Log("This is an error message.");
+
+            //18 
+            //ConfigurationManager config = ConfigurationManager.Instance;
+            //Console.WriteLine(config.GetSetting("database"));
+
+            //19 
+            //NotificationService service = new NotificationService();
+            //service.AddObserver(new EmailNotifier());
+            //service.AddObserver(new SMSNotifier());
+            //service.NotifyObservers("New notification arrived!");
+
+            ////20 
+            //ShoppingCart cart = new ShoppingCart();
+            //cart.SetDiscountStrategy(new PercentageDiscount(10));
+            //Console.WriteLine($"Total with 10% discount: {cart.CalculateTotal(100)}");
+
+            //cart.SetDiscountStrategy(new FixedAmountDiscount(20));
+            //Console.WriteLine($"Total with 20 fixed discount: {cart.CalculateTotal(100)}");
+
+            //cart.SetDiscountStrategy(new NoDiscount());
+            //Console.WriteLine($"Total with no discount: {cart.CalculateTotal(100)}");
 
         }
         static void ButtonClicked()

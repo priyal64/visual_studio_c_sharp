@@ -1,0 +1,15 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\bin\Debug\net8.0\Inhheritance_examples_programs.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\bin\Debug\net8.0\Inhheritance_examples_programs.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\bin\Debug\net8.0\Inhheritance_examples_programs.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\bin\Debug\net8.0\Inhheritance_examples_programs.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\bin\Debug\net8.0\Inhheritance_examples_programs.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.sourcelink.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\refint\Inhheritance_examples_programs.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\Inhheritance_examples_programs.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Inhheritance_examples_programs\obj\Debug\net8.0\ref\Inhheritance_examples_programs.dll

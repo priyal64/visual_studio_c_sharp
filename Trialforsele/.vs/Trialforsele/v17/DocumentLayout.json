@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\trialforsele\\multiusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|solutionrelative:multiusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\trialforsele\\percenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|solutionrelative:percenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\trialforsele\\rubikscubetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\rubikscubetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|solutionrelative:rubikscubetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\trialforsele\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95742270-FE37-4B9B-8D26-720B0C73C7A7}|Trialforsele.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,24 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MultiUserTest.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\MultiUserTest.cs",
+              "RelativeDocumentMoniker": "MultiUserTest.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\MultiUserTest.cs",
+              "RelativeToolTip": "MultiUserTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:05:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PercentTest.cs",
               "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\PercentTest.cs",
               "RelativeDocumentMoniker": "PercentTest.cs",
               "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\PercentTest.cs",
               "RelativeToolTip": "PercentTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T07:06:55.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RubikscubeTest.cs",
               "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\RubikscubeTest.cs",
               "RelativeDocumentMoniker": "RubikscubeTest.cs",
@@ -47,12 +68,11 @@
               "RelativeToolTip": "RubikscubeTest.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:36:48.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:36:48.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Trialforsele\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
@@ -60,8 +80,7 @@
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:35:40.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:35:40.113Z"
             }
           ]
         }

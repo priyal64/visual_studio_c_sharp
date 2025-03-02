@@ -13,7 +13,8 @@ namespace exams_or_practice
             Console.WriteLine("Authentication successful!");
         }
     }
-    // This will cause a compilation error
-    // class AdvancedSecurity : SecuritySystem {
-    // } 
+     //This will cause a compilation error
+    // class AdvancedSecurity : SecuritySystem
+    //{
+    //}
 }
