@@ -1,0 +1,15 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.sourcelink.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\bin\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\bin\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\bin\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\bin\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\bin\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\refint\CUSTOM_EXCEPTION_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\CUSTOM_EXCEPTION_CSHARP.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\CUSTOM_EXCEPTION_CSHARP\obj\Debug\net8.0\ref\CUSTOM_EXCEPTION_CSHARP.dll
