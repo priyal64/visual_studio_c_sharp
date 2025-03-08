@@ -1,0 +1,15 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\bin\Debug\net8.0\Practice_m2_csharp.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\bin\Debug\net8.0\Practice_m2_csharp.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\bin\Debug\net8.0\Practice_m2_csharp.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\bin\Debug\net8.0\Practice_m2_csharp.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\bin\Debug\net8.0\Practice_m2_csharp.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.sourcelink.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\refint\Practice_m2_csharp.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\Practice_m2_csharp.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Practice_m2_csharp\obj\Debug\net8.0\ref\Practice_m2_csharp.dll

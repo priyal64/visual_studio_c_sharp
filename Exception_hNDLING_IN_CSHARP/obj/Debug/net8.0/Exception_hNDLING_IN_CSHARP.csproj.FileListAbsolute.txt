@@ -1,0 +1,15 @@
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\bin\Debug\net8.0\Exception_hNDLING_IN_CSHARP.exe
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\bin\Debug\net8.0\Exception_hNDLING_IN_CSHARP.deps.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\bin\Debug\net8.0\Exception_hNDLING_IN_CSHARP.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\bin\Debug\net8.0\Exception_hNDLING_IN_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\bin\Debug\net8.0\Exception_hNDLING_IN_CSHARP.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.sourcelink.json
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\refint\Exception_hNDLING_IN_CSHARP.dll
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.pdb
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\Exception_hNDLING_IN_CSHARP.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\visual_studio_c#\Exception_hNDLING_IN_CSHARP\obj\Debug\net8.0\ref\Exception_hNDLING_IN_CSHARP.dll
