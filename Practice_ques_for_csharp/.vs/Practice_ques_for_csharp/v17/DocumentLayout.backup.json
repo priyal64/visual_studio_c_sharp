@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Practice_ques_for_csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C518DD24-BE68-4429-9A20-4A19E8FADFC6}|Practice_ques_for_csharp.csproj|c:\\users\\priya\\onedrive\\documents\\visual_studio_c#\\practice_ques_for_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C518DD24-BE68-4429-9A20-4A19E8FADFC6}|Practice_ques_for_csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Practice_ques_for_csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\priya\\OneDrive\\Documents\\visual_studio_c#\\Practice_ques_for_csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:56:24.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
